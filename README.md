@@ -81,16 +81,25 @@ assign g=~(alb);
 assign h=~(a^b);
 endmodule
 ```
+
+
+ **Developed by : p.paul shervin **
+ **Register Number: 212224240111**
  
 **Logic symbol & Truthtable**
-![image](https://github.com/user-attachments/assets/ea3e5f95-c5cb-4dc9-9a9d-922544685816)
+
+![image](https://github.com/user-attachments/assets/3eddd9e2-d9c2-4ee7-bac9-055bd747d5c7)
 
 **RTL realization Output:** 
-![image](https://github.com/user-attachments/assets/4466885c-8a52-4247-98c3-2ef552a967e6)
 
-**Output**
-![image](https://github.com/user-attachments/assets/9f241835-1699-4b09-bf9d-5e1d2114064d)
+![image](https://github.com/user-attachments/assets/f567b1ef-569d-4f72-a5d1-35a8370b7679)
+
+## Output
+
+![image](https://github.com/user-attachments/assets/1cb659a4-1075-4fc4-8b2f-228458aa3774)
+
 
 **Result:**
+
 Thus the different digital IC's are studied and the truth table for different logic gates are verified.
 
